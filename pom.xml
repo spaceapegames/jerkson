@@ -130,4 +130,10 @@
 		</pluginManagement>
 	</build>
 
+	<scm>
+		<connection>scm:git:git@github.com:spaceapegames/jerkson.git</connection>
+		<tag>scm:git:git@github.com:spaceapegames/jerkson.git</tag>
+		<url>scm:git:git@github.com:spaceapegames/jerkson.git</url>
+        <developerConnection>scm:git:git@github.com:spaceapegames/jerkson.git</developerConnection>
+	</scm>
 </project>
